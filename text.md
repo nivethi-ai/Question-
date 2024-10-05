@@ -1,5 +1,5 @@
 1. Write a program that swaps the values of two variables.
-...
+```
 var a=2
 var b=4
 
@@ -13,7 +13,8 @@ b=c;
 
 console.log(a)
 console.log(b)
-...
+```
+
 
 
 
